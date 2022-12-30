@@ -25,7 +25,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", ""))
 
 # NAMA OWNER
 OWNER_USERNAME = os.environ.get("OWNER_USERNAME", "")
-OWNER_BOT = [1978038952]
+OWNER_BOT = [724236472]
 
 # Database
 DB_URI = os.environ.get("DATABASE_URL", "")
