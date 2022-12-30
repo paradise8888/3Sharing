@@ -2,7 +2,6 @@
     3 Sharing   
 </h1>
 
-<img align="center" fit="fill" alt="IMG" src="https://telegra.ph/file/99a73796a0de71ac455d1.jpg/>
 
 <h3 align="center"> 
     Telegram Bot File Sharing dengan 3 Force Subs Channel/Group
